@@ -1,6 +1,6 @@
 # my_first_app
 
-A new Flutter project.
+This is my First Flutter Project for my Mobile Programming Course in my College.
 
 ## Getting Started
 
